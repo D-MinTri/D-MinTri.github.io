@@ -592,7 +592,7 @@ input[type="url"]:focus,
 input[type="password"]:focus,
 textarea:focus,
 select:focus {
-	color: #cc005f;
+	color: #ffffff;
 	border-bottom: 1px solid #FFFFFF;
 }
 label, legend {
@@ -1039,7 +1039,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 	margin-bottom: 1.2rem;
 }
 .section-intro h5 {
-	color: #FFFFFF;
+	color: #000000;
 	font-size: 1.6rem;
 	line-height: 1.875;
 	margin-bottom: 0.3rem;
@@ -1335,7 +1335,7 @@ header .logo a {
 	text-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
 }
 .intro-content h5 {
-	color: #cc005f;
+	color: #ffffff;
 	font-family: "poppins-bold", sans-serif;
 	font-size: 2.3rem;
 	line-height: 1.565;
@@ -1382,7 +1382,7 @@ header .logo a {
 	letter-spacing: .25rem;
 }
 .intro-content .button:hover, .intro-content .button:focus {
-	border-color: #cc005f;
+	border-color: #ffffff;
 }
 .intro-content .button::after {
 	display: inline-block;
@@ -1414,7 +1414,7 @@ header .logo a {
 	color: #FFFFFF;
 }
 .intro-social li a:hover, .intro-social li a:focus {
-	color: #cc005f;
+	color: #ffffff;
 }
 
 /**
@@ -1627,7 +1627,7 @@ header .logo a {
 	text-align: center;
 }
 #resume .resume-header h2 {
-	color: #FFFFFF;
+	color: #000000;
 }
 
 #resume .resume-timeline {
@@ -1955,7 +1955,7 @@ header .logo a {
 	border-right: 1px solid rgba(200, 200, 200, 0.1);
 }
 .popup-modal .link-box a:hover {
-	background: #cc005f;
+	background: #93e0ff;
 	border: none;
 }
 @media only screen and (max-width:600px) {
@@ -2365,7 +2365,7 @@ header .logo a {
 	color: #FFFFFF;
 }
 #contact button.submitform:hover, #contact button.submitform:focus {
-	background: #cc005f;
+	background: #ffffff;
 }
 #message-warning, #message-success {
 	display: none;
@@ -2376,7 +2376,7 @@ header .logo a {
 	width: 100%;
 }
 #message-warning {
-	color: #fa0003;
+	color: #ffffff;
 }
 #message-success {
 	color: #FFFFFF;
@@ -2577,7 +2577,7 @@ footer .copyright span:last-child::after {
 	width: 6rem;
 	line-height: 6.6rem;
 	text-align: center;
-	background: #cc005f;
+	background: #74c1ff;
 	color: #FFFFFF;
 	text-align: center;
 	text-transform: uppercase;
